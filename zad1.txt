@@ -1,0 +1,1 @@
+1. Singleton pozwala na zainicjowanie tylko jednego ogólnodostępnego obiektu danej klasy. Przykładem może być połączenie z bazą danych którego używa wiele fragmentów programu. Wzorzec singleton stosuje się gdy potrzebujemy ściślejszej kontroli nad zmiennymi globalnymi.
