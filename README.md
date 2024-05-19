@@ -1,0 +1,1 @@
+# Singletony_ZPO
